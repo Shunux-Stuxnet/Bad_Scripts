@@ -1,2 +1,3 @@
-#chmod +x filename.sh
-#./filename.sh
+chmod +x filename.sh
+
+./filename.sh
