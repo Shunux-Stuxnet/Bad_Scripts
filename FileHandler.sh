@@ -1,5 +1,5 @@
 !#/bin/bash
-echo Hello, Gimme a file to perform some operations to test my learning.
+echo Hello, I am here to help you with dealing your file.
 echo Please give the file name from current directory only
 read filename
 
